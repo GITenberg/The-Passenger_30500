@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '34648'
     url: http://www.gutenberg.org/2009/agents/34648
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30500#The-Passenger
 gutenberg_issued: '2009-11-19'
 gutenberg_type: Text
 identifiers:
